@@ -1,3 +1,7 @@
+# ASSIGNMENT DAY 22
+# FAKHRI AZIS BASIRI
+# DATA ENGINEER BATCH 7
+
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, sum, month, year
 from pyspark.sql.types import StructType, StructField, StringType, IntegerType, FloatType, DateType

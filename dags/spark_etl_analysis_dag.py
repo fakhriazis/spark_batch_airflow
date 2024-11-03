@@ -1,3 +1,7 @@
+# ASSIGNMENT DAY 22
+# FAKHRI AZIS BASIRI
+# DATA ENGINEER BATCH 7
+
 from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.providers.apache.spark.operators.spark_submit import SparkSubmitOperator
